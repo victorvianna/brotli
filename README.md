@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/google/brotli/actions/workflows/build_test.yml/badge.svg" alt="GitHub Actions Build Status" href="https://github.com/google/brotli/actions?query=branch%3Amaster">
+  <img src="https://github.com/victorvianna/brotli/actions/workflows/build_test.yml/badge.svg" alt="GitHub Actions Build Status" href="https://github.com/victorvianna/brotli/actions?query=branch%3Amaster">
   <img src="https://oss-fuzz-build-logs.storage.googleapis.com/badges/brotli.svg" alt="Fuzzing Status" href="https://oss-fuzz-build-logs.storage.googleapis.com/index.html#brotli">
 </p>
 <p align="center"><img src="https://brotli.org/brotli.svg" alt="Brotli" width="64"></p>
@@ -57,7 +57,7 @@ To install the latest release of the Python module, run the following:
 
 To install the tip-of-the-tree version, run:
 
-    $ pip install --upgrade git+https://github.com/google/brotli
+    $ pip install --upgrade git+https://github.com/victorvianna/brotli
 
 See the [Python readme](python/README.md) for more details on installing
 from source, development, and testing.
@@ -68,7 +68,7 @@ We glad to answer/library related questions in
 [brotli mailing list](https://groups.google.com/forum/#!forum/brotli).
 
 Regular issues / feature requests should be reported in
-[issue tracker](https://github.com/google/brotli/issues).
+[issue tracker](https://github.com/victorvianna/brotli/issues).
 
 For reporting vulnerability please read [SECURITY](SECURITY.md).
 

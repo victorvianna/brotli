@@ -145,7 +145,7 @@ NAME = 'Brotli'
 
 VERSION = get_version()
 
-URL = 'https://github.com/google/brotli'
+URL = 'https://github.com/victorvianna/brotli'
 
 DESCRIPTION = 'Python bindings for the Brotli compression library'
 
@@ -189,7 +189,7 @@ USE_SYSTEM_BROTLI = bool_from_environ('USE_SYSTEM_BROTLI')
 
 if USE_SYSTEM_BROTLI:
     import pkgconfig
-    
+
     REQUIRED_BROTLI_SYSTEM_LIBRARIES = ["libbrotlicommon", "libbrotlienc", "libbrotlidec"]
 
     define_macros = []

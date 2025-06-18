@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/brotli/go/cbrotli"
+	"github.com/victorvianna/brotli/go/cbrotli"
 )
 
 func checkCompressedData(compressedData, wantOriginalData []byte) error {

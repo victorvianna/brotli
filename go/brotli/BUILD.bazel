@@ -10,7 +10,7 @@ go_library(
         "decode.go",
         "reader.go",
     ],
-    importpath = "github.com/google/brotli/go/brotli",
+    importpath = "github.com/victorvianna/brotli/go/brotli",
 )
 
 go_test(

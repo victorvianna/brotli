@@ -113,4 +113,4 @@ Mailing list: https://groups.google.com/forum/#!forum/brotli
 
 # BUGS
 
-Report bugs at: https://github.com/google/brotli/issues
+Report bugs at: https://github.com/victorvianna/brotli/issues

@@ -13,7 +13,7 @@
   "components": [
     {
       "type": "library",
-      "bom-ref": "pkg:github/google/brotli@@VCS_TAG@",
+      "bom-ref": "pkg:github/victorvianna/brotli@@VCS_TAG@",
       "cpe": "cpe:2.3:a:google:brotli:@VCS_TAG@:*:*:*:*:*:*:*",
       "name": "Brotli",
       "version": "@VCS_VERSION@",
@@ -36,7 +36,7 @@
       "externalReferences": [
         {
           "type": "vcs",
-          "url": "https://github.com/google/brotli"
+          "url": "https://github.com/victorvianna/brotli"
         }
       ]
     }

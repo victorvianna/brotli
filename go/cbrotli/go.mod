@@ -1,1 +1,1 @@
-module github.com/google/brotli/go/cbrotli
+module github.com/victorvianna/brotli/go/cbrotli

@@ -15,7 +15,7 @@ go_library(
         "@org_brotli//:brotlienc",
     ],
     cgo = True,
-    importpath = "github.com/google/brotli/go/cbrotli",
+    importpath = "github.com/victorvianna/brotli/go/cbrotli",
 )
 
 go_test(
