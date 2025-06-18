@@ -10,7 +10,6 @@ package cbrotli
 #include <stddef.h>
 #include <stdint.h>
 
-#cgo CFLAGS: -I${SRCDIR}/../../c/include/
 #include <brotli/decode.h>
 
 static BrotliDecoderResult DecompressStream(BrotliDecoderState* s,
