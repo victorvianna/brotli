@@ -1,4 +1,4 @@
-package synth_test
+package brotli_test
 
 import (
 	"testing"

@@ -1,4 +1,4 @@
-package synth_test
+package cbrotli_test
 
 import (
 	"testing"
