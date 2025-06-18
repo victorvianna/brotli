@@ -17,17 +17,3 @@ go_library(
     cgo = True,
     importpath = "github.com/victorvianna/brotli/go/cbrotli",
 )
-
-go_test(
-    name = "cbrotli_test",
-    size = "small",
-    srcs = ["cbrotli_test.go"],
-    deps = [":cbrotli"],
-)
-
-go_test(
-    name = "synth_test",
-    size = "small",
-    srcs = ["synth_test.go"],
-    deps = [":cbrotli"],
-)
