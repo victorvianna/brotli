@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"google3/third_party/brotli/go/brotli/brotli"
-	"github.com/google/brotli/go/cbrotli"
+	"github.com/victorvianna/brotli/go/cbrotli"
 )
 
 func TestReader(t *testing.T) {

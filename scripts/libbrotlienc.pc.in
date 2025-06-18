@@ -4,7 +4,7 @@ libdir=@libdir@
 includedir=@includedir@
 
 Name: libbrotlienc
-URL: https://github.com/google/brotli
+URL: https://github.com/victorvianna/brotli
 Description: Brotli encoder library
 Version: @PACKAGE_VERSION@
 Libs: -L${libdir} -lbrotlienc

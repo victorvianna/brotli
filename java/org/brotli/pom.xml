@@ -23,9 +23,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/google/brotli.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/google/brotli.git</developerConnection>
-    <url>https://github.com/google/brotli</url>
+    <connection>scm:git:git://github.com/victorvianna/brotli.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/victorvianna/brotli.git</developerConnection>
+    <url>https://github.com/victorvianna/brotli</url>
   </scm>
 
   <modules>

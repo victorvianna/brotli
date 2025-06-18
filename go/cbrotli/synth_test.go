@@ -3,7 +3,7 @@ package synth_test
 import (
 	"testing"
 
-	"github.com/google/brotli/go/cbrotli"
+	"github.com/victorvianna/brotli/go/cbrotli"
 )
 
 func verify(t *testing.T, compressed []uint8, expectSuccess bool, expectedOutput string) {
